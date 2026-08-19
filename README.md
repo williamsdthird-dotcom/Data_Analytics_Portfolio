@@ -1,6 +1,6 @@
 # Data Analytics Portfolio | Edidiong Williams
 
-Hi, I'm a Data Analyst specializing in Power BI, SQL, and turning business data into decisions.
+Hi, I'm a Data Analyst specializing in Excel, Power BI, SQL, and turning business data into decisions.
 
 ## Projects
 
